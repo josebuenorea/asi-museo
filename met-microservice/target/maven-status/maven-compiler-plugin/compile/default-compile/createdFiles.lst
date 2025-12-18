@@ -1,6 +1,0 @@
-es/museo/met/client/MetApiClient.class
-es/museo/met/MetApplication.class
-es/museo/met/dto/ObraSimplificadaDTO.class
-es/museo/met/dto/ObraDetalleDTO.class
-es/museo/met/service/MetService.class
-es/museo/met/controller/MetController.class
