@@ -1,1 +1,7 @@
 .DS_Store
+
+# Build artifacts
+server/target/
+met-microservice/target/
+client/node_modules/
+client/dist/
